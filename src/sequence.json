@@ -1,0 +1,56 @@
+{
+    "sequence-1": [
+        {
+            "name": "kick",
+            "values": [0, 4, 8, 12]
+        },
+        {
+            "name": "snare",
+            "values": [4, 12]
+        },
+        {
+            "name": "openhat",
+            "values": [2, 6, 10, 14]
+        },
+        {
+            "name": "closedhat",
+            "values": [0, 4, 8, 12]
+        }
+    ],
+    "sequence-2": [
+        {
+            "name": "kick",
+            "values": [0, 6, 10]
+        },
+        {
+            "name": "snare",
+            "values": [4, 12]
+        },
+        {
+            "name": "openhat",
+            "values": [10, 14]
+        },
+        {
+            "name": "closedhat",
+            "values": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+        }
+    ],
+    "sequence-3": [
+        {
+            "name": "kick",
+            "values": [0, 3, 6, 10]
+        },
+        {
+            "name": "snare",
+            "values": [4, 12]
+        },
+        {
+            "name": "openhat",
+            "values": [2, 6, 10, 14]
+        },
+        {
+            "name": "closedhat",
+            "values": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+        }
+    ]
+}
